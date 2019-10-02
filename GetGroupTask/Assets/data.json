@@ -1,0 +1,88 @@
+{
+    "brands":[
+        {
+            "logo":"",
+            "name":"Skoda",
+            "models":[
+                {
+                    "name": "Skoda Octavia 2020",
+                    "branches":[
+                        {
+                            "name": "يو تواوتو",
+                            "address": "28 شارع احمد فخري بجوار مستشفي حسبو مدينه نصر",
+                            "latitude": 30.0659799,
+                            "longitude": 31.3470718
+                        }
+                    ]
+                },
+                {
+                   "name": "Skoda Superb 2019",
+                   "branches":[
+                       {
+                           "name": "فري اوتو",
+                           "address": "٢٠عمارات رابعه الاستثمارى خلف توم اند بصل مدينة نصر القاهره",
+                           "latitude": 30.0715812,
+                           "longitude": 31.3348674
+                       }
+                    ]
+                }
+            ]
+        },
+        {
+            "logo":"",
+            "name":"Chevrolet",
+            "models":[
+                {
+                    "name": "Chevrolet Lanos 2019",
+                    "branches":[
+                        {
+                            "name": "موتورز مصر",
+                            "address": "4 شارع الانتصار متفرع من ميدان الف مسكن - جسر السويس - القاهرة",
+                            "latitude": 30.1156535,
+                            "longitude": 31.3386631
+                        }
+                    ]
+                },
+                {
+                    "name": "Chevrolet Aveo 2020",
+                    "branches":[
+                        {
+                            "name": "فري اوتو",
+                            "address": "٢٠عمارات رابعه الاستثمارى خلف توم اند بصل مدينة نصر القاهره",
+                            "latitude": 30.0715812,
+                            "longitude": 31.3348674
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "logo":"",
+            "name":"Hyundai",
+            "models":[
+                {
+                    "name": "Hyundai Accent HCI 2019",
+                    "branches":[
+                        {
+                            "name": "اوتو بيراميدز",
+                            "address": "6 شارع احمد لطفى السيد المساحة الهرم",
+                            "latitude": 30.0082874,
+                            "longitude": 31.1934412
+                        }
+                    ]
+                },
+                {
+                    "name": "Hyundai Elantra HD 2019",
+                    "branches":[
+                        {
+                            "name": "نيو شاهين",
+                            "address": "1 ميدان مدكور بجوار مسجد السلام شارع الهرم",
+                            "latitude": 30.0038125,
+                            "longitude": 31.1864672
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

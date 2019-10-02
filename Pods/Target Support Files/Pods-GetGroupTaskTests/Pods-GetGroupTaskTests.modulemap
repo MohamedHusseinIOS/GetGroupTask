@@ -1,0 +1,6 @@
+framework module Pods_GetGroupTaskTests {
+  umbrella header "Pods-GetGroupTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
